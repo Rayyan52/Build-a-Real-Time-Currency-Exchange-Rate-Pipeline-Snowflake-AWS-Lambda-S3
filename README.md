@@ -12,7 +12,8 @@ This project provides an automated solution for retrieving real-time currency ex
 
 ## Architecture
 
-![Architecture Diagram](architecture diagram.png)
+<img width="1000" height="478" alt="Architecture" src="https://github.com/user-attachments/assets/b340b9ae-ab3e-4165-af88-6d1ee30d84ed" />
+
 
 - **AWS Lambda**: Executes the main ETL process on a schedule
 - **Amazon S3**: Stores raw exchange rate data as JSON files
@@ -115,3 +116,4 @@ This project provides an automated solution for retrieving real-time currency ex
 4. Push to the branch
 
 5. Create a new Pull Request 
+
